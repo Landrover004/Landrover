@@ -1,10 +1,8 @@
 {	
-	"Newest":"1.0", 
-	"gonggao":"下一个版本解决奔溃问题！", 
 	"lubotu":{
 		"lubotu1":"https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=842505274,3232838085&fm=27&gp=0.jpg",
 		"lubotu2":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1524991635755&di=dbfa157e592d89c8b57e29eae9ab6db0&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20170729%2Ffc7be81057014cbab48645223ddb06b1_th.jpg",
-		"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1524991635752&di=0ea6458d60bea4dbda9c38b124d30d6e&imgtype=0&src=http%3A%2F%2Fimg001.21cnimg.com%2Fphotos%2Falbum%2F20140915%2Fm600%2F019F32BF26824BF06310F223ED95EE2A.jpeg"
+		"lubotu3":"https://github.com/Landrover004/Landrover/raw/master/tu1.jpg"
+                "lubotu4":"https://github.com/Landrover004/Landrover/raw/master/tu2.jpg"
 	},
-	"tishi":"欢迎使用皮皮语音助手!广告商务合作请联系QQ：228124423"
 }
